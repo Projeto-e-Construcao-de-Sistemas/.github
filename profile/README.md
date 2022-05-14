@@ -1,12 +1,29 @@
-## Hi there 👋
+# Projetos e Construção de Sistemas 2022.1
 
-<!--
+Esta é a organização para mantermos todos os projetos relativos a disciplina de Projetos e Construção de Sistemas 2022.1. Todo o código deverá ser mantido atualizado obrigatoriamente no mínimo até o horário de cada entrega. A apresentação de casos de uso que não possuem código disponibilizado nesta organização pode acarretar a perda de pontos.
 
-**Here are some ideas to get you started:**
+# Grupos
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+> **TIME 1**
+
+**GRUPO 1 -** Ciro Nogueira, Luiz Eduardo, Guilherme Menezes, Luísa
+
+**GRUPO 2 -** Luana Chaves, André Silva, Vítor Barroso, Pedro Lucas Barros
+
+**GRUPO 3 -** Allanis, Mariana, Jéssica, Lionel
+
+**GRUPO 4 -** Laura Rodrigues, Maria Isabel, Rafael Bastos, Leonardo de Lima
+
+> **TIME 2**
+
+**GRUPO 5 -** Erick, Bruno Bastos, Rebeca e Leandro Luiz
+
+**GRUPO 6 -** Cristion Almeida, Paula Rodrigues, Luca, Tauan
+
+**GRUPO 7 -** Cassiano, Bernardo, Leandro César Coelho, Hernan
+
+## Guias rápidos
+
+[Como instalar a ferramenta Git](https://www.hostinger.com.br/tutoriais/tutorial-do-git-basics-introducao)
+[Como utilizar a ferramenta Git](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
+[Como usar a plataforma Github](https://www.hostinger.com.br/tutoriais/o-que-github)
